@@ -1,10 +1,10 @@
 This project is a Python-based desktop application designed to analyze and optimize Python source code. It performs static code analysis techniques such as:
 
-# Dead Code Elimination
+ Dead Code Elimination
 
-# Code Clone Detection
+ Code Clone Detection
 
-# Loop Invariant Optimization
+ Loop Invariant Optimization
 
 In addition, the tool measures execution time and memory usage before and after optimization, providing graphical comparisons and Excel-based performance reporting.
 
